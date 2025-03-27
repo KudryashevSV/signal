@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "signal": {
+            "name": "Signal",
+            "repo": "https://github.com/robiso/signal/tree/master",
+            "zip": "https://github.com/robiso/signal/archive/master.zip",
+            "summary": "Signal theme",
+            "version": "3.2.1",
+            "image": "https://raw.githubusercontent.com/robiso/signal/master/preview.jpg"
+        }
+    }
+}
